@@ -11,15 +11,15 @@ Deze applicatie zal dit probleem oplossen door de gebruiker op basis van zijn/ha
 De doelgroep is vooral jonge(re) mensen en/of studenten.
 
 #### Visuale tekening
-Zie doc folder
+![alt text](https://github.com/TheMenno/Eventself/blob/master/doc/Wireframe.png "Sketch of the application")
 
 #### Features
-De applicatie toont een lijst met evenementen voor een bepaalde datum/tijd. (MVP)
-De evenementen die getoond worden kunnen verschillen aan de hand van aanpasbare variabelen. (MVP)
-De gebruiker kan meer informatie krijgen over een evenement door erop te klikken. (MVP)
-Gebruikers kunnen interesse aangeven voor een evenement, of aangeven dat ze gaan.
-Gebruikers kunnen een overzicht zien van evenementen waar ze interesse voor hebben/ waar ze heen gaan.
-De evenementen kunnen worden getoond op een kaart. (MVP)
+* De applicatie toont een lijst met evenementen voor een bepaalde datum/tijd. (MVP)
+* De evenementen die getoond worden kunnen verschillen aan de hand van aanpasbare variabelen. (MVP)
+* De gebruiker kan meer informatie krijgen over een evenement door erop te klikken. (MVP)
+* Gebruikers kunnen interesse aangeven voor een evenement, of aangeven dat ze gaan.
+* Gebruikers kunnen een overzicht zien van evenementen waar ze interesse voor hebben/ waar ze heen gaan.
+* De evenementen kunnen worden getoond op een kaart. (MVP)
 
 
 ## Voorbereidingen
